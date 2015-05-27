@@ -1,3 +1,4 @@
+#
 # Cookbook Name:: app
 # Recipe:: default
 #

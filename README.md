@@ -1,3 +1,4 @@
 # latte-repo
 
-  chiyeong.teoh chiyeongmy@gmail.com
+Chiyeong Teoh - chiyeongmy@gmail.com
+Jacob Kitchel - jacob.kitchel@gmail.com
